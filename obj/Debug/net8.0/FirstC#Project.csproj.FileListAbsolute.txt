@@ -1,0 +1,14 @@
+C:\Users\jorda_ijxh2dh\Desktop\C# Tutorial\FirstC#Project\FirstC#Project\bin\Debug\net8.0\FirstC#Project.exe
+C:\Users\jorda_ijxh2dh\Desktop\C# Tutorial\FirstC#Project\FirstC#Project\bin\Debug\net8.0\FirstC#Project.deps.json
+C:\Users\jorda_ijxh2dh\Desktop\C# Tutorial\FirstC#Project\FirstC#Project\bin\Debug\net8.0\FirstC#Project.runtimeconfig.json
+C:\Users\jorda_ijxh2dh\Desktop\C# Tutorial\FirstC#Project\FirstC#Project\bin\Debug\net8.0\FirstC#Project.dll
+C:\Users\jorda_ijxh2dh\Desktop\C# Tutorial\FirstC#Project\FirstC#Project\bin\Debug\net8.0\FirstC#Project.pdb
+C:\Users\jorda_ijxh2dh\Desktop\C# Tutorial\FirstC#Project\FirstC#Project\obj\Debug\net8.0\FirstC#Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorda_ijxh2dh\Desktop\C# Tutorial\FirstC#Project\FirstC#Project\obj\Debug\net8.0\FirstC#Project.AssemblyInfoInputs.cache
+C:\Users\jorda_ijxh2dh\Desktop\C# Tutorial\FirstC#Project\FirstC#Project\obj\Debug\net8.0\FirstC#Project.AssemblyInfo.cs
+C:\Users\jorda_ijxh2dh\Desktop\C# Tutorial\FirstC#Project\FirstC#Project\obj\Debug\net8.0\FirstC#Project.csproj.CoreCompileInputs.cache
+C:\Users\jorda_ijxh2dh\Desktop\C# Tutorial\FirstC#Project\FirstC#Project\obj\Debug\net8.0\FirstC#Project.dll
+C:\Users\jorda_ijxh2dh\Desktop\C# Tutorial\FirstC#Project\FirstC#Project\obj\Debug\net8.0\refint\FirstC#Project.dll
+C:\Users\jorda_ijxh2dh\Desktop\C# Tutorial\FirstC#Project\FirstC#Project\obj\Debug\net8.0\FirstC#Project.pdb
+C:\Users\jorda_ijxh2dh\Desktop\C# Tutorial\FirstC#Project\FirstC#Project\obj\Debug\net8.0\FirstC#Project.genruntimeconfig.cache
+C:\Users\jorda_ijxh2dh\Desktop\C# Tutorial\FirstC#Project\FirstC#Project\obj\Debug\net8.0\ref\FirstC#Project.dll
